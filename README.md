@@ -13,3 +13,6 @@ Detailed data analysis followed by predictive analytics of crimes in india over 
       * ID3 Regression (Decision tree regressor)
       * Random Forest Regressor
   - Performance comparision between Predictive analytics algorithms.
+
+# Acknowledgements:
+National Crime Records Bureau (NCRB), Govt of India has published this dataset on their website and also has shared on Open Govt Data Platform India portal under Govt. Open Data License - India.
