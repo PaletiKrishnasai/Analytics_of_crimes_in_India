@@ -1,4 +1,4 @@
-# Analytics_of_crimes_in-_India
+# Analytics_of_crimes_in_India
 Detailed data analysis followed by predictive analytics of crimes in india over a period of 2001-2013. 
 #### Broad categories include:
   - 01_District_wise_crimes_committed_IPC
